@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/magebuzz_product_slider",
+    "type": "magento-module",
+    "license": "Open-Software-License",
+    "homepage": "",
+    "description": "Product Slider extension",
+    "authors": [
+    {
+        "name": "Magebuzz",
+        "email": "magebuzz@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
