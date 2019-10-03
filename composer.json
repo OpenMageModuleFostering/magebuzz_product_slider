@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/magebuzz_product_slider",
+    "name": "openmage-module-fostering\/magebuzz_product_slider",
     "type": "magento-module",
-    "license": "Open-Software-License",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Product Slider extension",
     "authors": [
